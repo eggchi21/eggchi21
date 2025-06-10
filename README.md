@@ -23,7 +23,7 @@
 <td width="400" align="left">
 
 ### 👋 **Hi, I'm Keita Eguchi!**
-🚀 **Software Engineer** passionate about mobile development  
+🚀 **Software Engineer** I'm a software engineer passionate about both backend and frontend development.
 
 🌍 **Location:** Japan 🇯🇵  
 💼 **Focus:** Building web applications  
@@ -92,5 +92,5 @@
   
   **⭐ From [eggchi21](https://github.com/eggchi21) with ❤️**
   
-  *"Engineering makes everything beautiful! 🦋"*
+  *"Engineering brings everything beautiful! 🦋"*
 </div>
