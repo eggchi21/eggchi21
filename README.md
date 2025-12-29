@@ -65,7 +65,7 @@
 <img src="https://skillicons.dev/icons?i=figma" />
 
 ### 💻  **Languages & Frameworks**
-<img src="https://skillicons.dev/icons?i=php,laravel,ruby,rails,js,ts,react,html,css" />
+<img src="https://skillicons.dev/icons?i=php,laravel,ruby,rails,go,nextjs,js,ts,react,html,css" />
 
 </td>
 </tr>
